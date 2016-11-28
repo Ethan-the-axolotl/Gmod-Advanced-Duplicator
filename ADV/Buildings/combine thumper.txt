@@ -1,0 +1,33 @@
+[Info]
+Type:AdvDupe File
+Creator:"[KEWL KIDS] Ingebrigt"
+Date:10/04/09
+Description:"none"
+Entities:1
+Constraints:0
+[More Information]
+FileVersion:0.83
+AdvDupeVersion:1.836
+AdvDupeToolVersion:1.812
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.3
+WireVersion:1450
+Time:10:18 PM
+Head:280
+HoldAngle:0,-178.158,0
+HoldPos:3.05957,15.4126,4.44421
+StartPos:-5490.59,3523.94,260.444
+[Save]
+Entities:H45C1D0B0{N:280=T:45C228D0;}45C1F7C0{N:0=T:45C1CA70;}45C228D0{Y:4=T:45C1F7C0;Y:1=A:0,270,0;Y:2=V:-15.4126,3.05957,-4.44421;Y:6=Y:5;Y:8=Y:7;Y:9=N:0;}45C1CA70{Y:1=A:0,-90,360;Y:2=V:-15.4126,3.05957,-4.44421;Y:3=B:t;}
+Constraints:H3E7104D0{;}
+[Dict]
+1:"LocalAngle"
+2:"LocalPos"
+3:"Frozen"
+4:"PhysicsObjects"
+5:"models/props_combine/combinethumper002.mdl"
+6:"Model"
+7:"prop_thumper"
+8:"Class"
+9:"Skin"
+Saved:2

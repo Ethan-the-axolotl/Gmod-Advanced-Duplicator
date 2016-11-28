@@ -1,0 +1,52 @@
+[Info]
+Type:AdvDupe File
+Creator:"Baron Otto Lolzor Von Zu Perrot"
+Date:01/10/11
+Description:"none"
+Entities:2
+Constraints:1
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:2360
+Time:01:23 AM
+Head:69
+HoldAngle:0,-8.40016,0
+HoldPos:15.0119,-23.1014,-0.396542
+StartPos:7300.73,-10316.2,-0.96875
+[Save]
+Entities:H473B0118{N:69=T:458BF6E8;N:71=T:45EE6488;}41CACF10{Y:11=T:41CACF40;S:"Src"=N:54;Y:12=S:"X";Y:13=V:1.13,1.09,0.73;Y:14=T:41CACF98;Y:16=Y:15;Y:17=V:5.29,-6,-1.53;Y:18=N:0;}40B18A18{Y:1=A:-0.0680917,-146.406,0.00582605;Y:2=V:25.2871,-10.9365,0.38105;Y:4=B:f;}41CACF40{;}45412F98{Y:20=T:45412FF8;}45413028{S:"Y"=T:45413058;S:"X"=T:41CACF10;}40B189C0{N:0=T:40B18A18;}41CACF98{S:"a"=N:255;S:"b"=N:255;S:"g"=N:255;S:"r"=N:255;}41CACFC8{N:0=T:41CAD050;}45413088{;}45EE6488{Y:5=T:41CACFC8;Y:1=A:0.0844812,-56.4242,90.0456;Y:2=V:10.4907,-20.3506,84.4923;Y:9=Y:10;Y:21=T:45412F98;Y:7=Y:22;Y:3=N:0;}41CAD050{Y:1=A:0.0844812,-56.4242,90.0456;Y:2=V:10.4907,-20.3506,84.4923;Y:4=B:f;}45413140{S:"a"=N:255;S:"b"=N:255;S:"g"=N:255;S:"r"=N:255;}45413058{Y:11=T:45413088;S:"Src"=N:54;Y:12=S:"Y";Y:13=V:1.49,-0.12,0.73;Y:14=T:45413140;Y:16=Y:15;Y:17=V:-16.18,-8.36,-1.53;Y:18=N:0;}45412FF8{Y:19=T:45413028;}458BF6E8{Y:1=A:-0.0680917,-146.406,0.00582605;Y:2=V:25.2871,-10.9365,0.38105;Y:3=N:0;Y:5=T:40B189C0;Y:7=Y:6;Y:9=Y:8;}
+Constraints:40933670{Y:23=N:71;Y:24=N:0;}40933610{T:40933670;T:40933728;}458BF878{Y:25=T:40933610;Y:27=Y:26;Y:28=N:0;}40933728{Y:23=N:69;Y:24=N:0;}H40D20ED8{T:458BF878;}
+[Dict]
+1:"LocalAngle"
+2:"LocalPos"
+3:"Skin"
+4:"Frozen"
+5:"PhysicsObjects"
+6:"prop_physics"
+7:"Class"
+8:"models/props_lab/servers.mdl"
+9:"Model"
+10:"models/hunter/plates/plate2x2.mdl"
+11:"Path"
+12:"SrcId"
+13:"SrcPos"
+14:"Color"
+15:"cable/cable2"
+16:"Material"
+17:"StartPos"
+18:"Width"
+19:"Wires"
+20:"WireDupeInfo"
+21:"EntityMods"
+22:"gmod_wire_oscilloscope"
+23:"Index"
+24:"Bone"
+25:"Entity"
+26:"Weld"
+27:"Type"
+28:"forcelimit"
+Saved:21

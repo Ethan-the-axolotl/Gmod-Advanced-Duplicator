@@ -1,0 +1,101 @@
+[Info]
+Type:AdvDupe File
+Creator:"Attache ta Tuque"
+Date:01/15/10
+Description:"none"
+Entities:11
+Constraints:10
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:1978
+Time:04:13 PM
+Head:72
+HoldAngle:0,169.231,0
+HoldPos:7.04153,1.55267,-3.50614
+StartPos:1043.33,312.286,31.0313
+[Save]
+Entities:29903180{Y:16=S:"";Y:18=Y:29;Y:20=Y:24;Y:21=B:t;}1D1BB6D8{;}29982FB8{Y:2=A:-0.000141733,0.0387758,5.56197e-005;Y:3=V:67.9226,79.7467,0.468548;Y:5=B:f;}1D0B4FA0{;}1C91B9B8{Y:11=T:1C91BA18;}3FA08968{Y:16=Y:44;Y:18=Y:32;Y:20=Y:19;Y:21=B:f;}1C8EC9C8{Y:16=S:"";Y:18=Y:29;Y:20=Y:24;Y:21=B:t;}29A5D908{Y:16=Y:47;Y:18=Y:27;Y:20=Y:19;Y:21=B:t;}1C7BA108{Y:16=Y:61;Y:18=Y:39;Y:20=Y:19;Y:21=B:f;}1C7BA050{Y:16=Y:47;Y:18=Y:27;Y:20=Y:19;Y:21=B:t;}1CAD2758{Y:1=T:1C8533D0;Y:2=A:-10.4663,-97.4277,-0.0245361;Y:3=V:-4.4342,-121.931,-0.247749;Y:4=N:0;Y:6=T:299255E8;Y:8=Y:13;Y:10=Y:14;Y:12=T:29925508;}299255E8{N:0=T:2AACE3F8;}2A84CE18{N:0=T:2A84CEA0;}2A6B8DF0{N:0=T:2A6B8E78;}2AACE3F8{Y:2=A:-10.4663,-97.4277,359.975;Y:3=V:-4.4342,-121.931,-0.247749;Y:5=B:f;}2A0CB0C0{Y:1=T:3FD78298;Y:2=A:-10.8043,-0.0345525,0.0089042;Y:3=V:100.337,-64.7378,-0.259363;Y:4=N:0;Y:6=T:400581E8;Y:8=Y:13;Y:10=Y:14;Y:12=T:40058108;}29D0B810{Y:16=Y:38;Y:18=Y:39;Y:20=Y:19;Y:21=B:f;}3FA08938{Y:33=T:3FA08968;Y:35=T:211B9468;Y:37=T:211B94C0;Y:46=T:211B94F0;Y:28=T:29A5D908;Y:22=T:29C38AF0;Y:30=T:1C62C190;Y:49=T:29A5D938;Y:40=T:1C62C160;}1C62C160{Y:16=Y:50;Y:18=Y:39;Y:20=Y:19;Y:21=B:f;}2A928040{Y:1=T:3FA08938;Y:2=A:0.000222882,0.0375482,-6.10352e-005;Y:3=V:70.2979,-90.7425,0.468269;Y:4=N:0;Y:6=T:295484A8;Y:8=Y:41;Y:10=Y:51;Y:12=T:2A9280C8;}29925568{Y:1=S:"[]";}1C91B930{Y:1=T:4017F830;Y:2=A:-1.32409e-005,14.9084,-6.10352e-005;Y:3=V:45.1632,74.6988,0.468548;Y:4=N:0;Y:6=T:29CCA550;Y:8=Y:41;Y:10=Y:51;Y:12=T:1C91B9B8;}29D0B7E0{Y:22=T:2A9AAFA0;Y:25=T:2A9AAF70;Y:28=T:2A9AAF18;Y:30=T:29903180;Y:33=T:299031B0;Y:35=T:3F7AE300;Y:37=T:3F7AE330;Y:40=T:29D0B810;}1C650CE8{N:0=T:1C650D70;}2A928128{Y:1=Y:52;}4017F890{Y:16=S:"";Y:18=Y:34;Y:20=Y:24;Y:21=B:t;}1C91BA18{Y:1=Y:62;}29548530{Y:2=A:0.000222882,0.0375482,360;Y:3=V:70.2979,-90.7425,0.468269;Y:5=B:f;}29CF2928{;}1C939270{Y:1=S:"[]";}2AF050A0{Y:1=S:"[]";}2A1CCE40{Y:1=T:1D1BB6D8;Y:2=A:-0.000141733,0.0387758,5.56197e-005;Y:3=V:67.9226,79.7467,0.468548;Y:4=N:0;Y:6=T:1C9392F0;Y:8=Y:13;Y:10=Y:53;Y:12=T:1C939210;}211B94F0{Y:16=S:"";Y:18=Y:45;Y:20=Y:24;Y:21=B:f;}1C62C190{Y:16=S:"";Y:18=Y:29;Y:20=Y:24;Y:21=B:t;}3FE199E0{Y:1=S:"[]";}29A195C8{Y:16=S:"";Y:18=Y:45;Y:20=Y:24;Y:21=B:f;}2A6B8D70{Y:1=S:"[]";}29CCA5D8{Y:2=A:-1.32409e-005,14.9084,360;Y:3=V:45.1632,74.6988,0.468548;Y:5=B:f;}1C6D58A8{Y:1=T:400DE340;Y:2=A:0.000868409,-0.0505836,-0.000518799;Y:3=V:-7.04285,-1.54642,3.50626;Y:4=N:0;Y:6=T:2A6B8DF0;Y:8=Y:54;Y:10=Y:55;Y:12=T:1C6D5958;}29C38AF0{Y:16=Y:15;Y:18=Y:17;Y:20=Y:19;Y:21=B:t;}40058168{Y:1=S:"[]";}3FD78298{;}2A84CEA0{Y:2=A:-0.982684,15.4705,360;Y:3=V:43.4094,74.8514,27.081;Y:5=B:f;}4023C4C8{Y:11=T:4023C528;}3FB54720{Y:1=S:"[]";}2A693978{Y:16=Y:58;Y:18=Y:59;Y:20=Y:19;Y:21=B:f;}2A83D998{Y:11=T:2AF050A0;}2AF05180{Y:2=A:-0.00989305,-92.9529,359.973;Y:3=V:-2.69397,-93.9657,0.487486;Y:5=B:f;}2A9280C8{Y:11=T:2A928128;}2A83D910{Y:1=T:27D7DD60;Y:2=A:-0.00989305,-92.9529,-0.026947;Y:3=V:-2.69397,-93.9657,0.487486;Y:4=N:0;Y:6=T:2AF050F8;Y:8=Y:56;Y:10=Y:57;Y:12=T:2A83D998;}2AF050F8{N:0=T:2AF05180;}27D7DD60{;}3FE19980{Y:11=T:3FE199E0;}29925508{Y:11=T:29925568;}2AAAB8F0{Y:11=T:2AAAB950;}2AAAB9D0{N:0=T:2AABF238;}3FE198F8{Y:1=T:29CF2928;Y:2=A:2.09372e-007,0.0377042,0;Y:3=V:55.4551,111.387,0.490351;Y:4=N:0;Y:6=T:1C650CE8;Y:8=Y:56;Y:10=Y:57;Y:12=T:3FE19980;}2A9AAFA0{Y:16=Y:15;Y:18=Y:17;Y:20=Y:19;Y:21=B:t;}29CCA550{N:0=T:29CCA5D8;}211B9468{Y:16=S:"";Y:18=Y:34;Y:20=Y:24;Y:21=B:t;}400DE340{;}1C8ECA80{Y:16=Y:15;Y:18=Y:17;Y:20=Y:19;Y:21=B:t;}1C939210{Y:11=T:1C939270;}299031B0{Y:16=Y:31;Y:18=Y:32;Y:20=Y:19;Y:21=B:f;}2A9AAF18{Y:16=Y:26;Y:18=Y:27;Y:20=Y:19;Y:21=B:t;}40058108{Y:11=T:40058168;}295484A8{N:0=T:29548530;}1C7D2288{N:0=T:1C7D22E8;}4017F830{Y:33=T:4017F860;Y:35=T:4017F890;Y:37=T:29A19488;Y:46=T:29A195C8;Y:28=T:1C7BA050;Y:22=T:1C8ECA80;Y:30=T:1C8EC9C8;Y:60=T:2A693978;Y:49=T:2A6938C0;Y:40=T:1C7BA108;}1C9392F0{N:0=T:29982FB8;}294E2ED8{;}29A19488{Y:16=S:"";Y:18=Y:36;Y:20=Y:24;Y:21=B:t;}4023C528{Y:1=S:"[]";}211B94C0{Y:16=S:"";Y:18=Y:36;Y:20=Y:24;Y:21=B:t;}2A6938C0{Y:16=S:"";Y:18=Y:48;Y:20=Y:24;Y:21=B:f;}H29376420{N:63=T:3FB54638;N:81=T:1CAD2758;N:74=T:2932EF48;N:78=T:2A928040;N:67=T:2A1CCE40;N:79=T:2A0CB0C0;N:72=T:1C6D58A8;N:80=T:4023C440;N:65=T:1C91B930;N:66=T:3FE198F8;N:77=T:2A83D910;}29A5D938{Y:16=S:"";Y:18=Y:48;Y:20=Y:24;Y:21=B:f;}2932EF48{Y:1=T:29D0B7E0;Y:2=A:0.00107483,0.0117837,0.00311073;Y:3=V:-0.418091,-69.0684,10.2969;Y:4=N:0;Y:6=T:2AAAB9D0;Y:8=Y:41;Y:10=Y:42;Y:12=T:2AAAB8F0;}2A9AAF70{Y:16=S:"";Y:18=Y:23;Y:20=Y:24;Y:21=B:f;}27D57D68{Y:2=A:-10.8043,-0.0345525,0.0089042;Y:3=V:100.337,-64.7378,-0.259363;Y:5=B:f;}4017F860{Y:16=S:"[]";Y:18=Y:32;Y:20=Y:19;Y:21=B:f;}4023C440{Y:1=T:294E2ED8;Y:2=A:-0.0227204,0.0372618,0.00265758;Y:3=V:81.9912,-62.0735,0.454439;Y:4=N:0;Y:6=T:1C7D2288;Y:8=Y:56;Y:10=Y:57;Y:12=T:4023C4C8;}1C6D5958{Y:11=T:2A6B8D70;}2A6B8E78{Y:2=A:0.000868409,-0.0505836,359.999;Y:3=V:-7.04285,-1.54642,3.50626;Y:5=B:f;}3F7AE300{Y:16=S:"";Y:18=Y:34;Y:20=Y:24;Y:21=B:t;}3FB546C0{Y:11=T:3FB54720;}2AAAB950{Y:1=Y:43;}1C7D22E8{Y:2=A:-0.0227204,0.0372618,0.00265758;Y:3=V:81.9912,-62.0735,0.454439;Y:5=B:f;}400581E8{N:0=T:27D57D68;}3FB54638{Y:1=T:1D0B4FA0;Y:2=A:-0.982684,15.4705,-6.10352e-005;Y:3=V:43.4094,74.8514,27.081;Y:4=N:0;Y:6=T:2A84CE18;Y:8=Y:7;Y:10=Y:9;Y:12=T:3FB546C0;}2AABF238{Y:2=A:0.00107483,0.0117837,0.00311073;Y:3=V:-0.418091,-69.0684,10.2969;Y:5=B:f;}3F7AE330{Y:16=S:"";Y:18=Y:36;Y:20=Y:24;Y:21=B:t;}1C8533D0{;}1C650D70{Y:2=A:2.09372e-007,0.0377042,360;Y:3=V:55.4551,111.387,0.490351;Y:5=B:f;}
+Constraints:2AB777A0{Y:69=V:13.1164,-0.990443,19.6299;Y:70=N:65;Y:71=N:0;}2AF051D8{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:-6.19592,-3.79204,9.66114;Y:68=N:0;Y:72=T:4018FDD0;Y:73=N:52.042213439941;Y:74=V:0.436773,-12.3361,1.70334;Y:76=Y:75;}H2A0886C8{T:29CCA630;T:2AF051D8;T:2AABF290;T:2A84CEF8;T:1C650DC8;T:2A21D868;T:29548588;T:1C7D2340;T:29983010;T:2AACE450;}2AB77710{T:2AB77770;T:2AB777A0;}2AABF348{T:1CC4BE80;T:1CC4BEB0;}2A84CEF8{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:13.1164,-0.990443,19.6299;Y:68=N:0;Y:72=T:2AB77710;Y:73=N:19.197914123535;Y:74=V:-3.74011,-2.96011,1.52708;Y:76=Y:75;}1C650DC8{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:7.04146,-4.54197,0.603559;Y:68=N:0;Y:72=T:298DE258;Y:73=N:102.55749511719;Y:74=V:-5.05079,5.56765,1.11443;Y:76=Y:75;}3FCD2BD8{Y:69=V:7.04135,4.85879,2.13002;Y:70=N:72;Y:71=N:0;}2AABF290{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:-5.54366,-3.07656,10.2031;Y:68=N:0;Y:72=T:2AABF348;Y:73=N:33.193321228027;Y:74=V:5.46385,0.783975,1.53505;Y:76=Y:75;}295485E0{T:292AA748;T:292AA778;}2A21D868{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:7.04142,-6.69736,-0.00566343;Y:68=N:0;Y:72=T:2A21D948;Y:73=N:58.689273834229;Y:74=V:8.3206,3.69924,3.2218;Y:76=Y:75;}29CCA630{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:-11.2497,-1.5219,24.0731;Y:68=N:0;Y:72=T:29CCA688;Y:73=N:8.5426645278931;Y:74=V:-2.63816,-0.160582,-0.232508;Y:76=Y:75;}2A770020{Y:69=V:-2.63816,-0.160582,-0.232508;Y:70=N:63;Y:71=N:0;}298DE2E8{Y:69=V:7.04146,-4.54197,0.603559;Y:70=N:72;Y:71=N:0;}3FCD2BA8{Y:69=V:-11.6608,-5.59165,8.61506;Y:70=N:65;Y:71=N:0;}2AACE530{T:3FCD2BA8;T:3FCD2BD8;}2AACE450{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:7.04135,4.85879,2.13002;Y:68=N:0;Y:72=T:2AACE530;Y:73=N:72.326301574707;Y:74=V:-11.6608,-5.59165,8.61506;Y:76=Y:75;}298DE2B8{Y:69=V:-5.05079,5.56765,1.11443;Y:70=N:78;Y:71=N:0;}292AA748{Y:69=V:3.3293,-6.31438,11.5708;Y:70=N:80;Y:71=N:0;}292AA778{Y:69=V:13.1557,0.829953,13.1424;Y:70=N:78;Y:71=N:0;}299830F0{T:29994D98;T:29994DC8;}298DE258{T:298DE2B8;T:298DE2E8;}2AB78A60{Y:69=V:-6.19592,-3.79204,9.66114;Y:70=N:74;Y:71=N:0;}4018FDD0{T:2AB78A30;T:2AB78A60;}29548588{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:13.1557,0.829953,13.1424;Y:68=N:0;Y:72=T:295485E0;Y:73=N:21.661333084106;Y:74=V:3.3293,-6.31438,11.5708;Y:76=Y:75;}29983010{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:12.6847,2.46437,5.99966;Y:68=N:0;Y:72=T:299830F0;Y:73=N:30.553541183472;Y:74=V:2.03163,-0.755271,1.92415;Y:76=Y:75;}1C7D2398{T:2A998B98;T:2A998BC8;}2A998BC8{Y:69=V:12.3772,3.53111,11.6211;Y:70=N:78;Y:71=N:0;}2A21D948{T:2929E3E0;T:2929E410;}2A998B98{Y:69=V:-2.05361,-13.8326,2.88791;Y:70=N:79;Y:71=N:0;}2A770050{Y:69=V:-11.2497,-1.5219,24.0731;Y:70=N:65;Y:71=N:0;}1C7D2340{Y:63=N:0;Y:64=N:0.28000000119209;Y:66=Y:65;Y:67=V:12.3772,3.53111,11.6211;Y:68=N:0;Y:72=T:1C7D2398;Y:73=N:20.027006149292;Y:74=V:-2.05361,-13.8326,2.88791;Y:76=Y:75;}29CCA688{T:2A770020;T:2A770050;}2AB78A30{Y:69=V:0.436773,-12.3361,1.70334;Y:70=N:81;Y:71=N:0;}29994D98{Y:69=V:2.03163,-0.755271,1.92415;Y:70=N:66;Y:71=N:0;}2AB77770{Y:69=V:-3.74011,-2.96011,1.52708;Y:70=N:67;Y:71=N:0;}29994DC8{Y:69=V:12.6847,2.46437,5.99966;Y:70=N:65;Y:71=N:0;}1CC4BEB0{Y:69=V:-5.54366,-3.07656,10.2031;Y:70=N:74;Y:71=N:0;}1CC4BE80{Y:69=V:5.46385,0.783975,1.53505;Y:70=N:77;Y:71=N:0;}2929E3E0{Y:69=V:8.3206,3.69924,3.2218;Y:70=N:74;Y:71=N:0;}2929E410{Y:69=V:7.04142,-6.69736,-0.00566343;Y:70=N:72;Y:71=N:0;}
+[Dict]
+1:"harddrive"
+2:"LocalAngle"
+3:"LocalPos"
+4:"Skin"
+5:"Frozen"
+6:"PhysicsObjects"
+7:"pcmod_iodevice"
+8:"Class"
+9:"models/props_lab/reciever01d.mdl"
+10:"Model"
+11:"PCModDupeInfo"
+12:"EntityMods"
+13:"pcmod_keyboard"
+14:"models/props_c17/computer01_keyboard.mdl"
+15:"os:instance\
+os:launch"
+16:"ItemContent"
+17:"system/boot.sys"
+18:"ItemName"
+19:"file"
+20:"ItemType"
+21:"Locked"
+22:"/system/boot.sys"
+23:"serverfiles/"
+24:"folder"
+25:"/serverfiles/"
+26:"server"
+27:"system/os/osid.sys"
+28:"/system/os/osid.sys"
+29:"system/data/"
+30:"/system/data/"
+31:"{\"Theme\":\"server\",\"ServerName\":\"NODE1\"}"
+32:"system/data/pcdata.dat"
+33:"/system/data/pcdata.dat"
+34:"system/os/"
+35:"/system/os/"
+36:"system/"
+37:"/system/"
+38:"[[\"\",\"Chat Host\",\"chathost\"],[\"\",\"Print Share\",\"printshare\"]]"
+39:"system/data/allprogs.dat"
+40:"/system/data/allprogs.dat"
+41:"pcmod_tower"
+42:"models/props_lab/harddrive02.mdl"
+43:"{\"\\/system\\/data\\/allprogs.dat\":{\"ItemContent\":\"[[\\\"\\\",\\\"Chat Host\\\",\\\"chathost\\\"],[\\\"\\\",\\\"Print Share\\\",\\\"printshare\\\"]]\",\"ItemName\":\"system\\/data\\/allprogs.dat\",\"ItemType\":\"file\",\"Locked\":false},\"\\/system\\/os\\/osid.sys\":{\"ItemContent\":\"server\",\"ItemName\":\"system\\/os\\/osid.sys\",\"ItemType\":\"file\",\"Locked\":true},\"\\/serverfiles\\/\":{\"ItemContent\":\"\",\"ItemName\":\"serverfiles\\/\",\"ItemType\":\"folder\",\"Locked\":false},\"\\/system\\/data\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/data\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/system\\/data\\/pcdata.dat\":{\"ItemContent\":\"{\\\"Theme\\\":\\\"server\\\",\\\"ServerName\\\":\\\"NODE1\\\"}\",\"ItemName\":\"system\\/data\\/pcdata.dat\",\"ItemType\":\"file\",\"Locked\":false},\"\\/system\\/os\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/os\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/system\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/system\\/boot.sys\":{\"ItemContent\":\"os:instance\\nos:launch\",\"ItemName\":\"system\\/boot.sys\",\"ItemType\":\"file\",\"Locked\":true}}"
+44:"{\"Theme\":\"basic\"}"
+45:"mydocs/"
+46:"/mydocs/"
+47:"personal"
+48:"mydocs/text/"
+49:"/mydocs/text/"
+50:"[[\"app\",\"My Computer\",\"sys_openprog mycomputer\"],[\"app\",\"Notepad\",\"sys_openprog notepad\"],[\"app\",\"ChatServ\",\"sys_openprog chatserv\"],[\"app\",\"Personal Player\",\"sys_openprog pplayer\"],[\"app\",\"P2P Chat\",\"sys_openprog p2pchat\"]]"
+51:"models/props/cs_office/computer_case.mdl"
+52:"{\"\\/system\\/data\\/pcdata.dat\":{\"ItemContent\":\"{\\\"Theme\\\":\\\"basic\\\"}\",\"ItemName\":\"system\\/data\\/pcdata.dat\",\"ItemType\":\"file\",\"Locked\":false},\"\\/system\\/os\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/os\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/system\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/mydocs\\/\":{\"ItemContent\":\"\",\"ItemName\":\"mydocs\\/\",\"ItemType\":\"folder\",\"Locked\":false},\"\\/system\\/os\\/osid.sys\":{\"ItemContent\":\"personal\",\"ItemName\":\"system\\/os\\/osid.sys\",\"ItemType\":\"file\",\"Locked\":true},\"\\/mydocs\\/text\\/\":{\"ItemContent\":\"\",\"ItemName\":\"mydocs\\/text\\/\",\"ItemType\":\"folder\",\"Locked\":false},\"\\/system\\/data\\/allprogs.dat\":{\"ItemContent\":\"[[\\\"app\\\",\\\"My Computer\\\",\\\"sys_openprog mycomputer\\\"],[\\\"app\\\",\\\"Notepad\\\",\\\"sys_openprog notepad\\\"],[\\\"app\\\",\\\"ChatServ\\\",\\\"sys_openprog chatserv\\\"],[\\\"app\\\",\\\"Personal Player\\\",\\\"sys_openprog pplayer\\\"],[\\\"app\\\",\\\"P2P Chat\\\",\\\"sys_openprog p2pchat\\\"]]\",\"ItemName\":\"system\\/data\\/allprogs.dat\",\"ItemType\":\"file\",\"Locked\":false},\"\\/system\\/data\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/data\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/system\\/boot.sys\":{\"ItemContent\":\"os:instance\\nos:launch\",\"ItemName\":\"system\\/boot.sys\",\"ItemType\":\"file\",\"Locked\":true}}"
+53:"models/props/cs_office/computer_keyboard.mdl"
+54:"pcmod_router"
+55:"models/props_lab/reciever01a.mdl"
+56:"pcmod_monitor"
+57:"models/props/cs_office/computer_monitor.mdl"
+58:"nigzor"
+59:"mydocs/text/newdocument.txt"
+60:"/mydocs/text/newdocument.txt"
+61:"[[\"app\",\"My Computer\",\"sys_openprog mycomputer\"],[\"app\",\"Notepad\",\"sys_openprog notepad\"],[\"app\",\"I\\/O Controller\",\"sys_openprog iocontroller\"],[\"app\",\"ChatServ\",\"sys_openprog chatserv\"],[\"app\",\"Personal Player\",\"sys_openprog pplayer\"],[\"app\",\"P2P Chat\",\"sys_openprog p2pchat\"]]"
+62:"{\"\\/system\\/data\\/pcdata.dat\":{\"ItemContent\":\"[]\",\"ItemName\":\"system\\/data\\/pcdata.dat\",\"ItemType\":\"file\",\"Locked\":false},\"\\/system\\/os\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/os\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/system\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/mydocs\\/\":{\"ItemContent\":\"\",\"ItemName\":\"mydocs\\/\",\"ItemType\":\"folder\",\"Locked\":false},\"\\/system\\/os\\/osid.sys\":{\"ItemContent\":\"personal\",\"ItemName\":\"system\\/os\\/osid.sys\",\"ItemType\":\"file\",\"Locked\":true},\"\\/system\\/data\\/allprogs.dat\":{\"ItemContent\":\"[[\\\"app\\\",\\\"My Computer\\\",\\\"sys_openprog mycomputer\\\"],[\\\"app\\\",\\\"Notepad\\\",\\\"sys_openprog notepad\\\"],[\\\"app\\\",\\\"I\\\\\\/O Controller\\\",\\\"sys_openprog iocontroller\\\"],[\\\"app\\\",\\\"ChatServ\\\",\\\"sys_openprog chatserv\\\"],[\\\"app\\\",\\\"Personal Player\\\",\\\"sys_openprog pplayer\\\"],[\\\"app\\\",\\\"P2P Chat\\\",\\\"sys_openprog p2pchat\\\"]]\",\"ItemName\":\"system\\/data\\/allprogs.dat\",\"ItemType\":\"file\",\"Locked\":false},\"\\/mydocs\\/text\\/\":{\"ItemContent\":\"\",\"ItemName\":\"mydocs\\/text\\/\",\"ItemType\":\"folder\",\"Locked\":false},\"\\/mydocs\\/text\\/newdocument.txt\":{\"ItemContent\":\"nigzor\",\"ItemName\":\"mydocs\\/text\\/newdocument.txt\",\"ItemType\":\"file\",\"Locked\":false},\"\\/system\\/data\\/\":{\"ItemContent\":\"\",\"ItemName\":\"system\\/data\\/\",\"ItemType\":\"folder\",\"Locked\":true},\"\\/system\\/boot.sys\":{\"ItemContent\":\"os:instance\\nos:launch\",\"ItemName\":\"system\\/boot.sys\",\"ItemType\":\"file\",\"Locked\":true}}"
+63:"addlength"
+64:"width"
+65:"cable/cable2"
+66:"material"
+67:"LPos2"
+68:"forcelimit"
+69:"LPos"
+70:"Index"
+71:"Bone"
+72:"Entity"
+73:"length"
+74:"LPos1"
+75:"Rope"
+76:"Type"
+Saved:463

@@ -1,0 +1,35 @@
+[Info]
+Type:AdvDupe File
+Creator:"Baron Otto Lolzor Von Zu Perrot"
+Date:12/15/10
+Description:"none"
+Entities:1
+Constraints:0
+[More Information]
+FileVersion:0.84
+AdvDupeVersion:1.85
+AdvDupeToolVersion:1.9
+AdvDupeSharedVersion:1.72
+SerialiserVersion:1.4
+WireVersion:2339
+Time:04:52 PM
+Head:102
+HoldAngle:0,30.4663,0
+HoldPos:268.908,68.707,-20.3762
+StartPos:2309.05,8675.44,-3039.97
+[Save]
+Entities:57027C80{V:-4.37114e-008,-0,1;N:-20;B:f;}29BC3488{Y:2=Y:1;Y:3=A:-0.022425,-158.004,0.000342097;Y:4=V:223.608,164.427,20.2705;Y:5=N:0;Y:7=T:56F58DC8;Y:9=Y:8;Y:11=T:5755F3F0;}H52DB5578{N:102=T:29BC3488;}57107BF8{V:1.91069e-015,4.37114e-008,1;N:-24;B:f;}56F58DC8{N:0=T:574E77B8;}57107BC8{T:57107BF8;T:57027C20;T:57027C50;T:57027C80;T:52367E78;}574E77B8{Y:3=A:-0.022425,-158.004,0.000342097;Y:4=V:223.608,164.427,20.2705;Y:6=B:f;}52367E78{V:-1,-8.74228e-008,-0;N:-345;B:f;}57027C50{V:1,0,-0;N:179;B:f;}57027C20{V:1,0,-0;N:-24;B:f;}5755F3F0{Y:10=T:57107BC8;}
+Constraints:H527F3AE8{;}
+[Dict]
+1:"models/military2/air/air_f117.mdl"
+2:"Model"
+3:"LocalAngle"
+4:"LocalPos"
+5:"Skin"
+6:"Frozen"
+7:"PhysicsObjects"
+8:"prop_physics"
+9:"Class"
+10:"clipplane"
+11:"EntityMods"
+Saved:2
