@@ -1,0 +1,36 @@
+PROJECT 658 "WIDOWMAKER" BALLISTIC MISSILE SUBMARINE
+Version 1.0
+
+Notes: 
+- Submarine and missiles are optimized for gm_harbor map, other maps may require tweaking of variables in e2 chips
+- Missiles are prototypes and may have problems flying at targets that are not at least halfway across the map
+- 
+
+OPERATINGS OF SUBMARINE
+    W for throttle increase
+    S for throttle decrease
+    A/D for turning
+    Space for dive
+    Shift to surface
+    Turn on air compressor while on surface to generate oxygen, will automatically shut off while dived
+
+OPERATINGS OF NUCLEAR MISSILE SYSTEM
+    0. Gbombs lose wiring upon pasting, so you must reconnect the warheads to the appropriate "Warhead Arm" and "Warhead Detonate" And gates in the missile's avionics bay
+    1. Turn on target selector
+        * use debugger on chip on missile console to see name of target, text screens dont work underwater
+    2. Select target
+    3. Set target
+    4. Select missile
+    5. Missile arm (enable transmission of data to missiles)
+    6. Open silo
+    7. Turn keys (left key is toggle for use alone, set to non-toggle if operating with two)
+    8. Release upon "Firing" signal
+    9. Brace
+    
+    If manual target:
+    1. Link laser module to your gun
+    2. Set target
+    3. Press Manual Target Select Override button
+    4. Set target
+    5. Proceed as normal
+    
