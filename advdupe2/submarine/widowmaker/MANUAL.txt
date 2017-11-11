@@ -4,7 +4,11 @@ Version 1.0
 Notes: 
 - Submarine and missiles are optimized for gm_harbor map, other maps may require tweaking of variables in e2 chips
 - Missiles are prototypes and may have problems flying at targets that are not at least halfway across the map
-- 
+
+Required:
+- Sprops
+- Spacebuild/CAF for life support
+- Gbombs5 for nuclear warheads 
 
 OPERATINGS OF SUBMARINE
     W for throttle increase
